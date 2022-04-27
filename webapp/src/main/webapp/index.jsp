@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-  <h1>  By Sayed Md Rafe and Abdul Mulla </h1>
+  <h1>  By Sayed Md Rafe and Abdul Mulla  and By Vikas Sir</h1>
   
 </form>
