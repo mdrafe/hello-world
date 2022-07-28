@@ -11,7 +11,7 @@ pipeline {
     stage('maven build') {
       steps {
         dir(path: 'webapp') {
-          sh "mvn clean install"
+          sh "mvn package"
         }
 
         echo 'build stage done'
