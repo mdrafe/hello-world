@@ -4,7 +4,7 @@ pipeline {
     stage('github clone') {
       steps {
         echo 'cloning repo'
-        git(url: 'git@github.com:uday-globuslive/hello-world.git', branch: 'master', credentialsId: 'github-user', poll: true)
+        git(url: 'https://github.com/mdrafe/hello-world.git', branch: 'master', credentialsId: 'mdrafe549', poll: true)
       }
     }
 
